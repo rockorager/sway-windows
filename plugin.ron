@@ -1,0 +1,7 @@
+(
+    name: "Sway Windows",
+    description: "Lists sway windows",
+    bin: (path: "sway-windows"),
+    icon: Name("focus-windows-symbolic"),
+    query: (persistent: true),
+)
